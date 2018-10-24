@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
 void main(){
-	cout<<"from m1"<<endl;
+	cout<<"from m2"<<endl;
 }
-///new
